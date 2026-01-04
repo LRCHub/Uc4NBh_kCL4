@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ゴー・トゥ・大都会 / GUMI",
+  "base_artist": "月裏",
+  "createdAt": "2026-01-04T17:56:15.848263Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ゴー・トゥ・大都会 (feat. GUMI)",
+      "artist": "月裏, ニャン・トンロン",
+      "has_synced": true,
+      "path": "select/01_ゴー・トゥ・大都会_(feat._GUMI)_月裏,_ニャン・トンロン.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ゴー・トゥ・大都会 (feat. GUMI)",
+      "artist": "月裏, ニャントンロン",
+      "has_synced": true,
+      "path": "select/02_ゴー・トゥ・大都会_(feat._GUMI)_月裏,_ニャントンロン.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゴー・トゥ・大都会 (feat. GUMI)",
+      "artist": "月裏, ニャン・トンロン",
+      "has_synced": false,
+      "path": "select/pl_01_ゴー・トゥ・大都会_(feat._GUMI)_月裏,_ニャン・トンロン.txt"
+    }
+  ]
+}
